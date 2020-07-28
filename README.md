@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://i.ibb.co/D4CrPZD/ezgif-com-crop.gif" width="200px" align="left">
+<p align="right">
+  <br><br>
+  <img src="https://i.ibb.co/sWLQYnP/Screenshot-from-2020-07-29-01-54-58.png" width="240px">
+  <samp>
+    <br>I speak mostly Python and Java.
+    <br>You will usually find me having fun with data :blush:
+    <br>Or keeping an eye on cross-platform development :grin:
+    <br><br>See anything interesting? :sparkles:
+    <br>Ping me on discord @ purple_screwdriver#8820 :mailbox_with_mail:
+  </samp>
+  
+  <details align="right">
+    <summary><b>:telescope: Sidenote</b></summary>
+    <samp>
+      <br>Also, I play a lot of DotA 2, and would love to have an intellectual discussion over why <em>Bounty Hunter</em> is the best hero in the game. <img src="https://i.ibb.co/wKB8V99/Emoticon-money.gif" width="15px">
+    </samp>
+  </details>
+</p>
 
-<!--
-**sayansil/sayansil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
