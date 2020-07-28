@@ -3,7 +3,7 @@
   <br><br>
   <img src="https://i.ibb.co/sWLQYnP/Screenshot-from-2020-07-29-01-54-58.png" width="240px">
   <samp>
-    <br>I speak mostly Python and Java.
+    <br><br>I speak mostly Python and Java.
     <br>You will usually find me having fun with data :blush:
     <br>Or keeping an eye on cross-platform development :grin:
     <br><br>See anything interesting? :sparkles:
