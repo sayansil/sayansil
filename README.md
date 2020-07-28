@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/D4CrPZD/ezgif-com-crop.gif" width="200px" align="left">
+<img src="https://i.ibb.co/hm8Bw9f/oie-28233854-Ml-SToqr-T.gif" width="200px" align="left">
 <p align="right">
   <br><br>
   <img src="https://i.ibb.co/sWLQYnP/Screenshot-from-2020-07-29-01-54-58.png" width="240px">
