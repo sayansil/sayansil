@@ -1,7 +1,12 @@
 <img src="https://i.ibb.co/hm8Bw9f/oie-28233854-Ml-SToqr-T.gif" width="200px" align="left">
 <p align="right">
   <br><br>
-  <img src="https://i.ibb.co/sWLQYnP/Screenshot-from-2020-07-29-01-54-58.png" width="240px">
+  <a href="https://github.com/sayansil/sayansil#gh-light-mode-only">
+    <img src="https://i.ibb.co/JFpM95r/hi-black.png#gh-light-mode-only" width="240px">
+  </a>
+  <a href="https://github.com/sayansil/sayansil#gh-dark-mode-only">
+    <img src="https://i.ibb.co/GCWcx5Q/hi-white.png#gh-dark-mode-only" width="240px">
+  </a>
   <samp>
     <br><br>I speak mostly Python and Java.
     <br>You will usually find me having fun with data :blush:
