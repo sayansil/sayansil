@@ -2,10 +2,10 @@
 <p align="right">
   <br><br>
   <a href="https://github.com/sayansil/sayansil#gh-light-mode-only">
-    <img src="https://i.ibb.co/JFpM95r/hi-black.png#gh-light-mode-only" width="240px">
+    <img src="https://i.ibb.co/JFpM95r/hi-black.png#gh-light-mode-only" width="150px">
   </a>
   <a href="https://github.com/sayansil/sayansil#gh-dark-mode-only">
-    <img src="https://i.ibb.co/GCWcx5Q/hi-white.png#gh-dark-mode-only" width="240px">
+    <img src="https://i.ibb.co/GCWcx5Q/hi-white.png#gh-dark-mode-only" width="150px">
   </a>
   <samp>
     <br><br>I speak mostly Python and Java.
